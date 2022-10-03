@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AF-Jama
 - 👀 I’m interested in Backend development to ensure my future front end team can have a solid base to work with.
-- 🌱 I’m currently learning Python,C,Javascript(NodeJs),Relational Databases(MySQL) 
+- 🌱 I’m currently learning Python,C,Javascript(NodeJs),Relational Databases(MySQL) and foundations of computer networking
 - 💞️ I’m looking to collaborate on a Custom Password manager 
 - 📫 How to reach me ...
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AF-Jama)](https://github.com/anuraghazra/github-readme-stats)
