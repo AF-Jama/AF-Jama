@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AF-Jama
 - 👀 I’m interested in software engineering.
-- 🤹 Skills - NodeJS,ReactJS,JavaScript,TypeScript,HTML,CSS,Python,C,Relational Databases(MYSQL),Non Relational Databases(MongoDB),Linux,Docker and AWS.
+- 🤹 Skills - NodeJS,ReactJS,JavaScript,TypeScript,HTML,CSS,Python,C,Relational Databases(MYSQL),Non Relational Databases(MongoDB),Linux,Docker,Computer Networking and AWS.
 - 🌱 I’m currently learning computer networking
 - 💞️ I’m looking to collaborate on a Custom Password manager 
 - 📫 How to reach me ...
