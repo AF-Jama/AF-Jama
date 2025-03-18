@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning computer networking
 - 💞️ I’m looking to collaborate on a Custom Password manager 
 - 📫 How to reach me ...
-- 🗐 www.abdifatahjama.com
+- 🗐 www.jamanets.com
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AF-Jama)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
